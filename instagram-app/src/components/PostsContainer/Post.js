@@ -1,6 +1,6 @@
 import React from 'react';
 import PostHeader from './PostHeader'
-import CommentSection from '..CommentSection/CommentSection/'
+import CommentSection from '../CommentSection/CommentSection'
 
 
 const Post = props => {
